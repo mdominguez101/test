@@ -4,6 +4,7 @@ public class Account {
 	
 	// Instance variable, only available inside this class.
 	private double balance;
+	// New Comment
 	private String name;
 
 	public String getName() {
