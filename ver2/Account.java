@@ -15,11 +15,7 @@ public class Account {
 		this.name = name;
 	}
 
-	// Constructor
-	public Account(double balance) {
-		this("Unknown", balance);
 
-	}
 	
 	public Account(String name, double balance) {
 		this.name = name;
